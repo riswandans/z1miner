@@ -1,0 +1,10 @@
+#!/bin/bash
+runtime="src/main.js"
+printf "
+                            ___  _ ____ ____ ___  ____ ____ 
+                              /  | |    |  | |  \ |___ |__/ 
+                             /__ | |___ |__| |__/ |___ |  \ 
+
+                        XMR Miner - Powered by z1coder & coinhive
+\n"
+nodejs $runtime $1 $2 $3
