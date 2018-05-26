@@ -17,5 +17,10 @@ user@terminal:~$ chmod +x z1miner
 
 ### Usage
 ```console
-user@terminal:~$ z1miner <site_key> <secret_key> <thread>
+user@terminal:~$ ./z1miner <site_key> <secret_key> <thread>
+```
+
+Example:
+```console
+user@terminal:~$ ./z1miner YbmTCiz4rwbK9U8lSwEvzYwM0uTsArYp sa8Uiz5zp4aoO8Awv5SUTfxKzh30yRfR 8
 ```
