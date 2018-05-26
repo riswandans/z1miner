@@ -1,4 +1,5 @@
 # z1miner
+<img src="https://raw.githubusercontent.com/z1coder/z1miner/master/documentation/app.png"
 
 ### Information
 z1miner is a Monero (XMR) CPU miner, api based by coinhive.com
