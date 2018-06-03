@@ -33,7 +33,7 @@ exports.monitoring = function(i) {
                 }
                 catch(er){
                 }
-                var hashpersec = parsed.hashesPerSecond.toFixed(0);
+                var hashpersec = parsed.hashesPerSecond;
                 if(hashpersec == "0") {
                 }else{
                     hashpersec = (hashpersec * 12);
