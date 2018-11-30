@@ -9,7 +9,7 @@ z1miner is a Monero (XMR) CPU miner, api based by coinhive.com
 
 ### Installation
 ```console
-user@terminal:~$ git clone https://github.com/z1coder/z1miner.git
+user@terminal:~$ git clone https://github.com/riswandans/z1miner.git
 user@terminal:~$ npm update
 user@terminal:~$ chmod +x z1miner
 
